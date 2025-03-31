@@ -55,8 +55,6 @@ Once the ESP32 is running, send these commands to your bot:
 - `/led4_off` - Turns LED 4 OFF
 - `/state` - Shows the current LED status
 
-## 📷 Demonstration
-(Include images or GIFs of the working project here)
 
 ## 🔥 Future Improvements
 - Adding support for controlling relays and appliances
